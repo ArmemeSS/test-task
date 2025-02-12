@@ -1,1 +1,72 @@
-
+[
+    {
+        "name": "Marty",
+        "bio": "Marty is an energetic, light-hearted, and naive improviser. At 52 years old, he enjoys bringing joy and laughter to everyone around him. His comedic timing and unique perspective often catch the audience by surprise.",
+        "directives": [
+            "Keep the energy high during performances.",
+            "Ensure everyone in the troupe is having fun.",
+            "Engage the audience with humor and charm.",
+            "Use physical comedy to enhance the performance."
+        ]
+    },
+    {
+        "name": "Rebecca",
+        "bio": "Rebecca is a sharp, fast-thinking improviser who is always ready with a witty comeback. She is known for her clever wordplay and ability to adapt to any situation with ease.",
+        "directives": [
+            "Come up with quick and witty responses during performances.",
+            "Ensure Marty is grounded.",
+            "Keep the performance dynamic and engaging.",
+            "Encourage collaboration among team members."
+        ]
+    },
+    {
+        "name": "Jake",
+        "bio": "Jake is a laid-back improviser who specializes in storytelling. His ability to craft engaging narratives captivates audiences and sets the tone for the performance.",
+        "directives": [
+            "Focus on building engaging and cohesive stories.",
+            "Support the troupe with strong narrative structure.",
+            "Add emotional depth to the performance.",
+            "Encourage the troupe to explore deeper themes."
+        ]
+    },
+    {
+        "name": "Sophia",
+        "bio": "Sophia is a charismatic performer who loves integrating music into improvisation. Her background in singing and playing the guitar adds a unique flair to the troupe's performances.",
+        "directives": [
+            "Incorporate music and rhythm into scenes.",
+            "Lead the group in musical improvisation.",
+            "Use songs to highlight key moments in the performance.",
+            "Engage the audience with interactive musical elements."
+        ]
+    },
+    {
+        "name": "Liam",
+        "bio": "Liam is the troupe's tech-savvy improviser who excels in using props and digital effects to enhance performances. His creativity with tools and gadgets often surprises both the audience and his fellow performers.",
+        "directives": [
+            "Incorporate creative props and digital effects.",
+            "Adapt to unexpected technical challenges.",
+            "Use visual storytelling to enhance scenes.",
+            "Ensure the performance integrates seamlessly with the available technology."
+        ]
+    },
+    {
+        "name": "Emily",
+        "bio": "Emily is a passionate improviser with a flair for physical comedy. Her ability to use body language and movement to convey humor makes her a favorite among audiences.",
+        "directives": [
+            "Focus on physical comedy and slapstick humor.",
+            "Maintain high energy levels throughout the performance.",
+            "Encourage other troupe members to explore physical improvisation.",
+            "Ensure the physical aspects of the performance remain safe for everyone."
+        ]
+    },
+    {
+        "name": "Noah",
+        "bio": "Noah is an empathetic and thoughtful improviser who excels at creating characters with depth and relatability. His performances often evoke both laughter and introspection.",
+        "directives": [
+            "Develop multidimensional and relatable characters.",
+            "Explore emotional depth in scenes.",
+            "Support other troupe members by playing diverse roles.",
+            "Balance humor with meaningful storytelling."
+        ]
+    }
+]
