@@ -1,0 +1,8 @@
+langchain
+fastapi
+openai
+langchain-openai
+langchain-community
+telethon
+uvicorn
+python-multipart
